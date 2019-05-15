@@ -1,0 +1,7 @@
+14:25:32.663 [main] INFO  Academy.validateTitle - Driver is intialized
+14:25:42.654 [main] INFO  Academy.validateTitle - Navigated to HomePage
+14:25:43.268 [main] INFO  Academy.validateTitle - Successfully validated the Title
+14:25:52.978 [main] INFO  Academy.validateNavigation - Webdriver is intialized successfully
+14:26:01.339 [main] INFO  Academy.validateNavigation - Successfully checked the Navigation Bar
+16:43:49.678 [main] INFO  Academy.validateTitle - Driver is intialized
+16:44:03.183 [main] INFO  Academy.validateTitle - Navigated to HomePage

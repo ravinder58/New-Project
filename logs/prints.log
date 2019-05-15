@@ -1,0 +1,3 @@
+16:44:03.808 [main] INFO  Academy.validateTitle - Successfully validated the Title
+16:44:09.925 [main] INFO  Academy.validateNavigation - Webdriver is intialized successfully
+16:44:21.548 [main] INFO  Academy.validateNavigation - Successfully checked the Navigation Bar
